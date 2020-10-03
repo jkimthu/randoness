@@ -1,2 +1,14 @@
 # randoness
-quantifying plasticity in single-cell growth rate across metabolic states
+Scripts to quantify the plasticity of instantaneous single-cell growth rate as a function of metabolic state
+
+1. M1_low.m
+  - quantify pre-shift (low) and post-shift (high) growth rate for M1 (low-adapted cells)
+  - single upshift data
+  - two replicates
+
+2. M2_high.m
+  - quantify pre-shift (high) and post-shift (low) growth rate for M2
+  - single downshift data
+  - two replicates
+
+3. 
