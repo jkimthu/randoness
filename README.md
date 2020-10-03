@@ -11,4 +11,8 @@ Scripts to quantify the plasticity of instantaneous single-cell growth rate as a
   - single downshift data
   - two replicates
 
-3. 
+3. Mi_intermediate.m
+  - quantify post-shift (high) and post-shift (low) growth rate for Mi
+  - steady low nutrient shifted to T=60 min fluctuations between high (30 min) and low (30 min)
+  - high and low growth rate pairs quantified for 6 successive nutrient periods
+  - three replicates
