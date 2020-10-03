@@ -16,3 +16,6 @@ Scripts to quantify the plasticity of instantaneous single-cell growth rate as a
   - steady low nutrient shifted to T=60 min fluctuations between high (30 min) and low (30 min)
   - high and low growth rate pairs quantified for 6 successive nutrient periods
   - three replicates
+
+4. plasticity_across_M.m
+  - plot growth rate in high and low nutrient from M1, M2 and Mi
